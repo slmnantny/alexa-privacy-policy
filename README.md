@@ -35,6 +35,10 @@ This Privacy Policy is effective as of 03/01/2022 and will remain in effect exce
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website/app.
 
 
+# Terms of use
+
+If you are not @slmnantny, don't use this skill. If you use this skill (irrespective of whether you read this doc), you waive all rights to blame/accuse/or whatever responsible for any ontcome (especially undesirable ones). 
+
 ## Contact Information
 
 For any questions or concerns regarding the privacy policy, please send us an email to solomonantonys@hotmail.com.
