@@ -37,7 +37,7 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 # Terms of use
 
-If you are not @slmnantny, don't use this skill. If you use this skill (irrespective of whether you read this doc), you waive all rights to blame/accuse/or whatever responsible for any ontcome (especially undesirable ones). 
+If you are not @slmnantny, don't use this skill. If you use this skill (irrespective of whether you read this doc), you waive all rights to blame/accuse/hold  @slmnantny responsible for any outcome (especially undesirable ones). 
 
 ## Contact Information
 
